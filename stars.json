@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "npm/cli",
+    "stargazers_count": 6295,
+    "open_issues_count": 417,
+    "forks_count": 1984
+  },
+  {
+    "full_name": "csandman/chakra-react-select",
+    "stargazers_count": 398,
+    "open_issues_count": 2,
+    "forks_count": 19
+  },
+  {
+    "full_name": "open-sauced/open-sauced",
+    "stargazers_count": 756,
+    "open_issues_count": 17,
+    "forks_count": 365
+  },
+  {
     "full_name": "calcom/cal.com",
     "stargazers_count": 12761,
     "open_issues_count": 461,
@@ -31,7 +49,7 @@
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 32813,
+    "stargazers_count": 32814,
     "open_issues_count": 372,
     "forks_count": 746
   },
@@ -121,7 +139,7 @@
   },
   {
     "full_name": "lydiahallie/javascript-questions",
-    "stargazers_count": 47078,
+    "stargazers_count": 47079,
     "open_issues_count": 87,
     "forks_count": 6619
   },
@@ -160,23 +178,5 @@
     "stargazers_count": 53439,
     "open_issues_count": 234,
     "forks_count": 10410
-  },
-  {
-    "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 28347,
-    "open_issues_count": 69,
-    "forks_count": 2511
-  },
-  {
-    "full_name": "simskij/awesome-software-architecture",
-    "stargazers_count": 1526,
-    "open_issues_count": 0,
-    "forks_count": 124
-  },
-  {
-    "full_name": "AbhayVAshokan/Hack-NASA-using-HTML",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 28
   }
 ]
