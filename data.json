@@ -1,26 +1,32 @@
 [
   {
+    "full_name": "aviyelverse/Open-Source-Requests",
+    "stargazers_count": 17,
+    "open_issues_count": 113,
+    "forks_count": 4
+  },
+  {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 12761,
-    "open_issues_count": 461,
-    "forks_count": 1538
+    "stargazers_count": 12764,
+    "open_issues_count": 450,
+    "forks_count": 1542
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 26574,
+    "stargazers_count": 26609,
     "open_issues_count": 205,
-    "forks_count": 1103
+    "forks_count": 1102
   },
   {
     "full_name": "freeCodeCamp/mobile",
     "stargazers_count": 199,
-    "open_issues_count": 15,
+    "open_issues_count": 20,
     "forks_count": 45
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 60084,
+    "stargazers_count": 60103,
     "open_issues_count": 13,
-    "forks_count": 3020
+    "forks_count": 3023
   }
 ]
