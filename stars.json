@@ -1,15 +1,15 @@
 [
   {
     "full_name": "google/styleguide",
-    "stargazers_count": 33797,
+    "stargazers_count": 33951,
     "open_issues_count": 320,
-    "forks_count": 13043
+    "forks_count": 13069
   },
   {
     "full_name": "gin-gonic/gin",
-    "stargazers_count": 66510,
-    "open_issues_count": 640,
-    "forks_count": 7231
+    "stargazers_count": 66608,
+    "open_issues_count": 642,
+    "forks_count": 7235
   },
   {
     "full_name": "fffaraz/awesome-selfhosted-aws",
@@ -19,45 +19,45 @@
   },
   {
     "full_name": "github/roadmap",
-    "stargazers_count": 7183,
+    "stargazers_count": 7186,
     "open_issues_count": 117,
     "forks_count": 970
   },
   {
     "full_name": "go-gorm/gorm",
-    "stargazers_count": 31453,
+    "stargazers_count": 31488,
     "open_issues_count": 205,
-    "forks_count": 3464
+    "forks_count": 3468
   },
   {
     "full_name": "gofiber/fiber",
-    "stargazers_count": 24709,
+    "stargazers_count": 24776,
     "open_issues_count": 33,
-    "forks_count": 1262
+    "forks_count": 1261
   },
   {
     "full_name": "calibreapp/image-actions",
     "stargazers_count": 1269,
-    "open_issues_count": 21,
+    "open_issues_count": 20,
     "forks_count": 66
   },
   {
     "full_name": "styled-components/styled-components",
-    "stargazers_count": 38223,
-    "open_issues_count": 161,
-    "forks_count": 2408
+    "stargazers_count": 38255,
+    "open_issues_count": 159,
+    "forks_count": 2410
   },
   {
     "full_name": "Atarity/deploy-your-own-saas",
-    "stargazers_count": 4188,
+    "stargazers_count": 4190,
     "open_issues_count": 1,
-    "forks_count": 259
+    "forks_count": 260
   },
   {
     "full_name": "tiimgreen/github-cheat-sheet",
-    "stargazers_count": 39650,
+    "stargazers_count": 39749,
     "open_issues_count": 26,
-    "forks_count": 5250
+    "forks_count": 5254
   },
   {
     "full_name": "privatenumber/snap-tweet",
@@ -67,44 +67,44 @@
   },
   {
     "full_name": "szabgab/awesome-for-non-programmers",
-    "stargazers_count": 720,
+    "stargazers_count": 724,
     "open_issues_count": 0,
     "forks_count": 127
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 108591,
-    "open_issues_count": 8156,
-    "forks_count": 15917
+    "stargazers_count": 108677,
+    "open_issues_count": 8167,
+    "forks_count": 15931
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 96498,
-    "open_issues_count": 156,
-    "forks_count": 10715
+    "stargazers_count": 96753,
+    "open_issues_count": 148,
+    "forks_count": 10719
   },
   {
     "full_name": "sdras/awesome-actions",
-    "stargazers_count": 20875,
+    "stargazers_count": 20894,
     "open_issues_count": 103,
-    "forks_count": 1340
+    "forks_count": 1342
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
-    "stargazers_count": 558,
+    "stargazers_count": 560,
     "open_issues_count": 5,
     "forks_count": 84
   },
   {
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 11385,
+    "stargazers_count": 11473,
     "open_issues_count": 36,
-    "forks_count": 364
+    "forks_count": 366
   },
   {
     "full_name": "unskript/Awesome-CloudOps-Automation",
     "stargazers_count": 123,
-    "open_issues_count": 54,
+    "open_issues_count": 51,
     "forks_count": 17
   },
   {
@@ -115,51 +115,51 @@
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 20735,
-    "open_issues_count": 244,
-    "forks_count": 941
+    "stargazers_count": 20790,
+    "open_issues_count": 250,
+    "forks_count": 945
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 14763,
-    "open_issues_count": 203,
-    "forks_count": 1758
+    "stargazers_count": 14841,
+    "open_issues_count": 206,
+    "forks_count": 1771
   },
   {
     "full_name": "TinkerHub-CEC/tinkerhub-cec-website",
     "stargazers_count": 6,
-    "open_issues_count": 3,
-    "forks_count": 10
+    "open_issues_count": 2,
+    "forks_count": 9
   },
   {
     "full_name": "streetwriters/notesnook",
-    "stargazers_count": 5255,
-    "open_issues_count": 386,
-    "forks_count": 282
+    "stargazers_count": 5296,
+    "open_issues_count": 384,
+    "forks_count": 284
   },
   {
     "full_name": "npm/cli",
-    "stargazers_count": 6847,
-    "open_issues_count": 544,
-    "forks_count": 2451
+    "stargazers_count": 6866,
+    "open_issues_count": 547,
+    "forks_count": 2457
   },
   {
     "full_name": "csandman/chakra-react-select",
-    "stargazers_count": 543,
+    "stargazers_count": 544,
     "open_issues_count": 4,
     "forks_count": 22
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 840,
+    "stargazers_count": 841,
     "open_issues_count": 9,
-    "forks_count": 529
+    "forks_count": 533
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 16778,
-    "open_issues_count": 637,
-    "forks_count": 2005
+    "stargazers_count": 16874,
+    "open_issues_count": 627,
+    "forks_count": 2034
   },
   {
     "full_name": "freeCodeCamp/mobile",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "carbon-language/carbon-lang",
-    "stargazers_count": 29583,
-    "open_issues_count": 170,
-    "forks_count": 1240
+    "stargazers_count": 29603,
+    "open_issues_count": 168,
+    "forks_count": 1241
   }
 ]
