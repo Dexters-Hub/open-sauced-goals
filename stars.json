@@ -1,129 +1,129 @@
 [
   {
     "full_name": "nhooyr/websocket",
-    "stargazers_count": 3025,
-    "open_issues_count": 53,
+    "stargazers_count": 3033,
+    "open_issues_count": 54,
     "forks_count": 240
   },
   {
     "full_name": "Significant-Gravitas/Auto-GPT",
-    "stargazers_count": 140948,
-    "open_issues_count": 717,
-    "forks_count": 29939
+    "stargazers_count": 141481,
+    "open_issues_count": 724,
+    "forks_count": 30239
   },
   {
     "full_name": "twitter/the-algorithm",
-    "stargazers_count": 58268,
-    "open_issues_count": 341,
-    "forks_count": 11906
+    "stargazers_count": 58300,
+    "open_issues_count": 342,
+    "forks_count": 11919
   },
   {
     "full_name": "zerodha/gchatgpt",
-    "stargazers_count": 77,
+    "stargazers_count": 76,
     "open_issues_count": 0,
     "forks_count": 10
   },
   {
     "full_name": "github/vscode-github-actions",
-    "stargazers_count": 343,
-    "open_issues_count": 54,
+    "stargazers_count": 348,
+    "open_issues_count": 52,
     "forks_count": 35
   },
   {
     "full_name": "AxiomeCG/awesome-threejs",
-    "stargazers_count": 426,
+    "stargazers_count": 428,
     "open_issues_count": 1,
     "forks_count": 24
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 50354,
-    "open_issues_count": 1070,
-    "forks_count": 4324
+    "stargazers_count": 50551,
+    "open_issues_count": 1074,
+    "forks_count": 4347
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 86392,
-    "open_issues_count": 1007,
-    "forks_count": 40347
+    "stargazers_count": 86439,
+    "open_issues_count": 978,
+    "forks_count": 40403
   },
   {
     "full_name": "atlassian/react-beautiful-dnd",
-    "stargazers_count": 30260,
+    "stargazers_count": 30287,
     "open_issues_count": 580,
-    "forks_count": 2411
+    "forks_count": 2417
   },
   {
     "full_name": "zenoamaro/react-quill",
-    "stargazers_count": 5927,
-    "open_issues_count": 313,
-    "forks_count": 838
+    "stargazers_count": 5938,
+    "open_issues_count": 314,
+    "forks_count": 839
   },
   {
     "full_name": "uber/react-vis",
-    "stargazers_count": 8503,
+    "stargazers_count": 8508,
     "open_issues_count": 339,
     "forks_count": 867
   },
   {
     "full_name": "google/styleguide",
-    "stargazers_count": 34891,
-    "open_issues_count": 318,
-    "forks_count": 13307
+    "stargazers_count": 34909,
+    "open_issues_count": 319,
+    "forks_count": 13312
   },
   {
     "full_name": "gin-gonic/gin",
-    "stargazers_count": 69554,
-    "open_issues_count": 696,
-    "forks_count": 7545
+    "stargazers_count": 69659,
+    "open_issues_count": 698,
+    "forks_count": 7552
   },
   {
     "full_name": "fffaraz/awesome-selfhosted-aws",
-    "stargazers_count": 180,
+    "stargazers_count": 181,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "github/roadmap",
-    "stargazers_count": 7370,
+    "stargazers_count": 7373,
     "open_issues_count": 141,
-    "forks_count": 1044
+    "forks_count": 1048
   },
   {
     "full_name": "go-gorm/gorm",
-    "stargazers_count": 32768,
-    "open_issues_count": 231,
-    "forks_count": 3616
+    "stargazers_count": 32799,
+    "open_issues_count": 233,
+    "forks_count": 3618
   },
   {
     "full_name": "gofiber/fiber",
-    "stargazers_count": 26863,
+    "stargazers_count": 26932,
     "open_issues_count": 49,
-    "forks_count": 1345
+    "forks_count": 1351
   },
   {
     "full_name": "calibreapp/image-actions",
     "stargazers_count": 1311,
-    "open_issues_count": 24,
+    "open_issues_count": 25,
     "forks_count": 72
   },
   {
     "full_name": "styled-components/styled-components",
-    "stargazers_count": 39151,
-    "open_issues_count": 171,
-    "forks_count": 2455
+    "stargazers_count": 39165,
+    "open_issues_count": 169,
+    "forks_count": 2457
   },
   {
     "full_name": "Atarity/deploy-your-own-saas",
-    "stargazers_count": 4349,
+    "stargazers_count": 4355,
     "open_issues_count": 1,
     "forks_count": 263
   },
   {
     "full_name": "tiimgreen/github-cheat-sheet",
-    "stargazers_count": 41425,
+    "stargazers_count": 41459,
     "open_issues_count": 29,
-    "forks_count": 5291
+    "forks_count": 5292
   },
   {
     "full_name": "privatenumber/snap-tweet",
@@ -133,27 +133,27 @@
   },
   {
     "full_name": "szabgab/awesome-for-non-programmers",
-    "stargazers_count": 823,
+    "stargazers_count": 828,
     "open_issues_count": 0,
     "forks_count": 132
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 112350,
-    "open_issues_count": 8393,
-    "forks_count": 16740
+    "stargazers_count": 112420,
+    "open_issues_count": 8405,
+    "forks_count": 16770
   },
   {
     "full_name": "avelino/awesome-go",
-    "stargazers_count": 103624,
-    "open_issues_count": 143,
-    "forks_count": 11038
+    "stargazers_count": 103817,
+    "open_issues_count": 145,
+    "forks_count": 11051
   },
   {
     "full_name": "sdras/awesome-actions",
-    "stargazers_count": 21678,
+    "stargazers_count": 21702,
     "open_issues_count": 106,
-    "forks_count": 1383
+    "forks_count": 1382
   },
   {
     "full_name": "devrelcollective/awesome-devrel",
@@ -163,14 +163,14 @@
   },
   {
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 13324,
+    "stargazers_count": 13348,
     "open_issues_count": 41,
     "forks_count": 391
   },
   {
     "full_name": "unskript/Awesome-CloudOps-Automation",
-    "stargazers_count": 219,
-    "open_issues_count": 92,
+    "stargazers_count": 221,
+    "open_issues_count": 97,
     "forks_count": 27
   },
   {
